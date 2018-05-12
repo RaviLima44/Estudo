@@ -1,0 +1,12 @@
+C:\Projetos\AsPromocoes\AsPromocoes\AsPromocoes.Infrastructure.Data\bin\Debug\AsPromocoes.Infrastructure.Data.dll.config
+C:\Projetos\AsPromocoes\AsPromocoes\AsPromocoes.Infrastructure.Data\bin\Debug\AsPromocoes.Infrastructure.Data.dll
+C:\Projetos\AsPromocoes\AsPromocoes\AsPromocoes.Infrastructure.Data\bin\Debug\AsPromocoes.Infrastructure.Data.pdb
+C:\Projetos\AsPromocoes\AsPromocoes\AsPromocoes.Infrastructure.Data\bin\Debug\AsPromocoes.Domain.dll
+C:\Projetos\AsPromocoes\AsPromocoes\AsPromocoes.Infrastructure.Data\bin\Debug\EntityFramework.dll
+C:\Projetos\AsPromocoes\AsPromocoes\AsPromocoes.Infrastructure.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projetos\AsPromocoes\AsPromocoes\AsPromocoes.Infrastructure.Data\bin\Debug\AsPromocoes.Domain.pdb
+C:\Projetos\AsPromocoes\AsPromocoes\AsPromocoes.Infrastructure.Data\bin\Debug\EntityFramework.xml
+C:\Projetos\AsPromocoes\AsPromocoes\AsPromocoes.Infrastructure.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projetos\AsPromocoes\AsPromocoes\AsPromocoes.Infrastructure.Data\obj\Debug\AsPromocoes.Infrastructure.Data.csprojResolveAssemblyReference.cache
+C:\Projetos\AsPromocoes\AsPromocoes\AsPromocoes.Infrastructure.Data\obj\Debug\AsPromocoes.Infrastructure.Data.dll
+C:\Projetos\AsPromocoes\AsPromocoes\AsPromocoes.Infrastructure.Data\obj\Debug\AsPromocoes.Infrastructure.Data.pdb
