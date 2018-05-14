@@ -68,6 +68,6 @@ C:\Projetos\Estudo\AsPromocoes\AsPromocoes.MVC\bin\pt-br\System.Web.Razor.resour
 C:\Projetos\Estudo\AsPromocoes\AsPromocoes.MVC\bin\pt-br\System.Web.WebPages.resources.dll
 C:\Projetos\Estudo\AsPromocoes\AsPromocoes.MVC\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
 C:\Projetos\Estudo\AsPromocoes\AsPromocoes.MVC\bin\pt-br\System.Web.WebPages.Razor.resources.dll
-C:\Projetos\Estudo\AsPromocoes\AsPromocoes.MVC\obj\Debug\AsPromocoes.MVC.csprojResolveAssemblyReference.cache
 C:\Projetos\Estudo\AsPromocoes\AsPromocoes.MVC\obj\Debug\AsPromocoes.MVC.dll
 C:\Projetos\Estudo\AsPromocoes\AsPromocoes.MVC\obj\Debug\AsPromocoes.MVC.pdb
+C:\Projetos\Estudo\AsPromocoes\AsPromocoes.MVC\obj\Debug\AsPromocoes.MVC.csprojResolveAssemblyReference.cache

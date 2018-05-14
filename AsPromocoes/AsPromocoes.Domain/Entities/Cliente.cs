@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace AsPromocoes.Domain.Entities
 {
@@ -10,6 +11,8 @@ namespace AsPromocoes.Domain.Entities
         public string Email { get; set; }
         public DateTime DataCadastro { get; set; }
         public bool Ativo { get; set; }
+        public IEnumerable<Produto>Produtos { get; set; }
+
         public bool ClienteEspecial(Cliente cliente)
         {
             return cliente.Ativo && DateTime.Now.Year - cliente.DataCadastro.Year >= 5;

@@ -6,3 +6,4 @@ C:\Projetos\Estudo\AsPromocoes\AsPromocoes.Domain\bin\Debug\AsPromocoes.Domain.d
 C:\Projetos\Estudo\AsPromocoes\AsPromocoes.Domain\bin\Debug\AsPromocoes.Domain.pdb
 C:\Projetos\Estudo\AsPromocoes\AsPromocoes.Domain\obj\Debug\AsPromocoes.Domain.dll
 C:\Projetos\Estudo\AsPromocoes\AsPromocoes.Domain\obj\Debug\AsPromocoes.Domain.pdb
+C:\Projetos\Estudo\AsPromocoes\AsPromocoes.Domain\obj\Debug\AsPromocoes.Domain.csprojResolveAssemblyReference.cache
