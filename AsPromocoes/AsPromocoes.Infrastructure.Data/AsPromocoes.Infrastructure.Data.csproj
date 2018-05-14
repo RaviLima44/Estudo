@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{EDBF3ED0-6646-4008-AF11-AEB5DE41C24C}</ProjectGuid>
+    <ProjectGuid>{6593FD29-9ED4-4DE9-BFE2-E6A8010B9AA1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>AsPromocoes.Infrastructure.Data</RootNamespace>
@@ -52,18 +52,18 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\AsPromocoes.Domain\AsPromocoes.Domain.csproj">
-      <Project>{2685c62d-10b9-48a8-8157-16b7cfabb48b}</Project>
-      <Name>AsPromocoes.Domain</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <Folder Include="EntityConfig\" />
     <Folder Include="Repositories\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AsPromocoes.Domain\AsPromocoes.Domain.csproj">
+      <Project>{2685c62d-10b9-48a8-8157-16b7cfabb48b}</Project>
+      <Name>AsPromocoes.Domain</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

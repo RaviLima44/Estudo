@@ -5,14 +5,14 @@ namespace AsPromocoes.Infrastructure.Data.Migrations
     using System.Data.Entity.Migrations;
     using System.Linq;
 
-    internal sealed class Configuration : DbMigrationsConfiguration<AsPromocoes.Infrastructure.Data.Contexto.AsPromocoesContext>
+    internal sealed class Configuration : DbMigrationsConfiguration<Contexto.AsPromocoesContext>
     {
         public Configuration()
         {
-            AutomaticMigrationsEnabled = false;
+            AutomaticMigrationsEnabled = true;
         }
 
-        protected override void Seed(AsPromocoes.Infrastructure.Data.Contexto.AsPromocoesContext context)
+        protected override void Seed(Contexto.AsPromocoesContext context)
         {
             //  This method will be called after migrating to the latest version.
 

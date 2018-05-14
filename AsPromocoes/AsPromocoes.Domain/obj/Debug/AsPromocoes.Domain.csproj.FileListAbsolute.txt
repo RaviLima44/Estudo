@@ -2,3 +2,7 @@ C:\Projetos\AsPromocoes\AsPromocoes\AsPromocoes.Domain\bin\Debug\AsPromocoes.Dom
 C:\Projetos\AsPromocoes\AsPromocoes\AsPromocoes.Domain\bin\Debug\AsPromocoes.Domain.pdb
 C:\Projetos\AsPromocoes\AsPromocoes\AsPromocoes.Domain\obj\Debug\AsPromocoes.Domain.dll
 C:\Projetos\AsPromocoes\AsPromocoes\AsPromocoes.Domain\obj\Debug\AsPromocoes.Domain.pdb
+C:\Projetos\Estudo\AsPromocoes\AsPromocoes.Domain\bin\Debug\AsPromocoes.Domain.dll
+C:\Projetos\Estudo\AsPromocoes\AsPromocoes.Domain\bin\Debug\AsPromocoes.Domain.pdb
+C:\Projetos\Estudo\AsPromocoes\AsPromocoes.Domain\obj\Debug\AsPromocoes.Domain.dll
+C:\Projetos\Estudo\AsPromocoes\AsPromocoes.Domain\obj\Debug\AsPromocoes.Domain.pdb
