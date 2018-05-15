@@ -28,6 +28,8 @@ C:\Projetos\Estudo\AsPromocoes\AsPromocoes.MVC\bin\AsPromocoes.MVC.dll.config
 C:\Projetos\Estudo\AsPromocoes\AsPromocoes.MVC\bin\AsPromocoes.MVC.dll
 C:\Projetos\Estudo\AsPromocoes\AsPromocoes.MVC\bin\AsPromocoes.MVC.pdb
 C:\Projetos\Estudo\AsPromocoes\AsPromocoes.MVC\bin\Antlr3.Runtime.dll
+C:\Projetos\Estudo\AsPromocoes\AsPromocoes.MVC\bin\AsPromocoes.Domain.dll
+C:\Projetos\Estudo\AsPromocoes\AsPromocoes.MVC\bin\AutoMapper.dll
 C:\Projetos\Estudo\AsPromocoes\AsPromocoes.MVC\bin\Microsoft.AI.Agent.Intercept.dll
 C:\Projetos\Estudo\AsPromocoes\AsPromocoes.MVC\bin\Microsoft.AI.DependencyCollector.dll
 C:\Projetos\Estudo\AsPromocoes\AsPromocoes.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
@@ -46,6 +48,8 @@ C:\Projetos\Estudo\AsPromocoes\AsPromocoes.MVC\bin\System.Web.WebPages.Deploymen
 C:\Projetos\Estudo\AsPromocoes\AsPromocoes.MVC\bin\System.Web.WebPages.dll
 C:\Projetos\Estudo\AsPromocoes\AsPromocoes.MVC\bin\System.Web.WebPages.Razor.dll
 C:\Projetos\Estudo\AsPromocoes\AsPromocoes.MVC\bin\WebGrease.dll
+C:\Projetos\Estudo\AsPromocoes\AsPromocoes.MVC\bin\AsPromocoes.Domain.pdb
+C:\Projetos\Estudo\AsPromocoes\AsPromocoes.MVC\bin\AutoMapper.xml
 C:\Projetos\Estudo\AsPromocoes\AsPromocoes.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Projetos\Estudo\AsPromocoes\AsPromocoes.MVC\bin\System.Web.Helpers.xml
 C:\Projetos\Estudo\AsPromocoes\AsPromocoes.MVC\bin\System.Web.Mvc.xml
@@ -68,6 +72,6 @@ C:\Projetos\Estudo\AsPromocoes\AsPromocoes.MVC\bin\pt-br\System.Web.Razor.resour
 C:\Projetos\Estudo\AsPromocoes\AsPromocoes.MVC\bin\pt-br\System.Web.WebPages.resources.dll
 C:\Projetos\Estudo\AsPromocoes\AsPromocoes.MVC\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
 C:\Projetos\Estudo\AsPromocoes\AsPromocoes.MVC\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Projetos\Estudo\AsPromocoes\AsPromocoes.MVC\obj\Debug\AsPromocoes.MVC.csprojResolveAssemblyReference.cache
 C:\Projetos\Estudo\AsPromocoes\AsPromocoes.MVC\obj\Debug\AsPromocoes.MVC.dll
 C:\Projetos\Estudo\AsPromocoes\AsPromocoes.MVC\obj\Debug\AsPromocoes.MVC.pdb
-C:\Projetos\Estudo\AsPromocoes\AsPromocoes.MVC\obj\Debug\AsPromocoes.MVC.csprojResolveAssemblyReference.cache

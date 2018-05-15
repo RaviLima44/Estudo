@@ -2,4 +2,3 @@ C:\Projetos\Estudo\AsPromocoes\AsPromocoes.Application\bin\Debug\AsPromocoes.App
 C:\Projetos\Estudo\AsPromocoes\AsPromocoes.Application\bin\Debug\AsPromocoes.Application.pdb
 C:\Projetos\Estudo\AsPromocoes\AsPromocoes.Application\obj\Debug\AsPromocoes.Application.dll
 C:\Projetos\Estudo\AsPromocoes\AsPromocoes.Application\obj\Debug\AsPromocoes.Application.pdb
-C:\Projetos\Estudo\AsPromocoes\AsPromocoes.Application\obj\Debug\AsPromocoes.Application.csprojResolveAssemblyReference.cache
